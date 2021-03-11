@@ -1,0 +1,121 @@
+html {
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+body {
+  background-color: #edc7b7;
+}
+
+#header {
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+}
+
+.icon {
+  position: absolute;
+  margin-left: 20px;
+  width: 10vw;
+  height: 15vh;
+}
+
+h1 {
+  position: relative;
+  height: 15vh;
+  border: 10px solid #eee;
+  background-color: #eee2dc;
+  margin-top: 10px;
+  margin-bottom: 35px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #ac3b61;
+  text-shadow: 2px 2px 5px red;
+  padding: 0px;
+  margin: 0px;
+}
+
+p.byline {
+  font-size: 1em;
+  font-family: "Maindra GD", sans-serif, "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande";
+  padding: 0px;
+  margin: 20px;
+  margin-bottom: 20px;
+  color: #123c69;
+  text-shadow: 2px 2px 4px #1bafa8;
+}
+
+.sec1 {
+  position: relative;
+  height: 20vh;
+  border: 5px solid #eee;
+  background-color: #ac3b61;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 310px;
+  border-radius: 9px;
+  opacity: 0.8;
+  padding: 1px;
+}
+
+.paraMain {
+  font-size: 1em;
+  font-family: "Maindra GD", sans-serif, "Lucida Sans", "Lucida Sans Regular",
+    "Lucida Grande";
+  padding: 5px;
+  color: #edc7b7;
+}
+
+.paraLeft {
+  text-align: left;
+}
+
+p.paraRight {
+  text-align: right;
+}
+
+.blueSpace {
+  position: relative;
+  width: 95vw;
+  height: 8vh;
+  /*border: 5px solid #eee;*/
+  background-color: #123c69;
+  margin-top: 0px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 9px;
+  opacity: 0.8;
+  padding: 5px;
+}
+
+ul {
+  padding: 8px;
+  margin: 0px;
+}
+ul li {
+  display: inline;
+  padding-left: 50px;
+}
+ul li a {
+  font-size: 1.4rem;
+  color: #edc7b7;
+}
+
+.img1 {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-right: 10px;
+  height: 67.5vh;
+  width: 21vw;
+}
